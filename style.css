@@ -1,0 +1,14 @@
+/*
+Theme Name: Game Lounge WP Theme
+Author: Ionut Muraretu
+Description: This theme reflects the task
+Tags: game-lounge, theme
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: gamelounge
+*/
+
+body {
+    background: red;
+}
